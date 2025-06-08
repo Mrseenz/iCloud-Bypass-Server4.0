@@ -79,7 +79,7 @@ curl_setopt_array($curl, array(
     CURLOPT_SSL_VERIFYPEER => false,
     CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
     CURLOPT_CUSTOMREQUEST => "POST",
-    CURLOPT_POSTFIELDS => array('InStoreActivation' => 'false','AppleSerialNumber' => 'C38JCATYDTWF','IMEI' => '013349008187060','MEID' => '','IMSI' => '268030103481639','ICCID' => '8935103016300053247','activation-info' => '<dict>
+    CURLOPT_POSTFIELDS => array('InStoreActivation' => 'false','AppleSerialNumber' => 'F4GTGYJZHG7F','IMEI' => '355324087826421','MEID' => '','IMSI' => '655012840853271','ICCID' => '89284000000008532719','activation-info' => '<dict>
     <key>ActivationInfoComplete</key>
 	<true/>
 	<key>ActivationInfoXML</key>
