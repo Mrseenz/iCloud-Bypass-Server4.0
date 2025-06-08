@@ -1,14 +1,4 @@
-# iCloud-Bypass-Server
--Descargue Ampps (no Xampp)
-
--Este le ayudará a realizar pruebas como un host local
-
--Instale Ampps
-
--Compruebe su ip ( Valla a: Configuración> Red e Internet> Estado> Ver las propiedades de red> Localize la ipv4) Ejemplo: 192.168.100.1
-
--Utilice su php en la carpeta www de Ampps generada en la ruta de instalación
-
--Útilice ideviceactivation.exe de libimobiledevice 
-
--ideviceactivation activate -d -s https://su.ipv4/nombre_de_su.php
+# iCloud-Bypass-Server-
+Download Ampps (not Xampp)
+-This will help you perform tests as a local host-Install Ampps-Check your ip (Go to: Settings> Network & Internet> Status> View network properties> Locate the ipv4) Example: 192.168.100.1-Use your php in the www folder of Ampps generated in the installation path-Use ideviceactivation.exe from libimobiledevice
+-ideviceactivation activate -d -s https://your.ipv4/your_name.php
